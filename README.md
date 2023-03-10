@@ -1,5 +1,5 @@
 ### Tech Stack
-Next.js, TypeScript, React, Jest
+ React, Typescript, Next.js, Jest
 
 ### to run the project:
 
