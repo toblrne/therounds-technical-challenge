@@ -1,5 +1,11 @@
 ### Tech Stack
  React, Typescript, Next.js, Jest
+ 
+### to install dependencies:
+
+```
+npm install
+```
 
 ### to run the project:
 
